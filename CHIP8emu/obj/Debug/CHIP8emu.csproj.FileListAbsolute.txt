@@ -1,0 +1,10 @@
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.csprojResolveAssemblyReference.cache
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.Properties.Resources.resources
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.csproj.GenerateResource.cache
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.csproj.CoreCompileInputs.cache
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\bin\Debug\CHIP8emu.exe.config
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\bin\Debug\CHIP8emu.exe
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\bin\Debug\CHIP8emu.pdb
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.exe
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.pdb
+C:\Users\Starfer\source\repos\CHIP8emu\CHIP8emu\obj\Debug\CHIP8emu.Form1.resources
